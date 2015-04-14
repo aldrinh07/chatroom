@@ -1,5 +1,4 @@
 
-
 angular.module('chatroom').service('parseService', function($http){
 
   //Here you'll need to create two methods. One called postData and the other called getData.
